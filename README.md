@@ -1,5 +1,5 @@
 # Analise Incendios Brasil
-Análise do Risco e Intensidade de Incêndios no Brasil: Uma prática de análise SQL no SQL SERVER
+Análise do Risco e Intensidade de Incêndios no Brasil: Uma prática de análise com SQL no SQL SERVER
 
 Confira a análise completa publicada no Medium através do link: 
 
