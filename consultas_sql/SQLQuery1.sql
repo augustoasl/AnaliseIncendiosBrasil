@@ -1,0 +1,2 @@
+CREATE DATABASE Incendios_Brasil_2024;
+GO
